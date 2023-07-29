@@ -3,7 +3,7 @@
 Made this project as part of a JavaScript course on Udemy by Jonas Schmedtmann.  
 By doing this project I practiced working with array methods, numbers, dates, Intl, and DOM manipulation in JavaScript.
 
-[👉Live Preview👈]()
+[👉Preview👈](https://bankist-app-r.netlify.app/)
 
 ## What is Bankist?
 
