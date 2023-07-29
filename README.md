@@ -40,4 +40,4 @@ PIN: 2222<br>
 ![Alt text](image-1.png)
 
 (UI by Jonas Schmedtmann. This project is NOT responsive!)
-# Bankist-App
+
